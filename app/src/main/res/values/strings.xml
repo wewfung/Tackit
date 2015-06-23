@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tackit_v1</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="editTxtHint">Enter Some Text</string>
+    <string name="header">"<u>Made This Session:             </u>"</string>
+
+    <string name="toastBtn">Toast</string>
+    <string name="notifBtn">New Notification</string>
+</resources>
